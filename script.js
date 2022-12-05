@@ -22,7 +22,7 @@ function handleResults() {
 }
 
 function generate() {
-	return Math.floor(Math.random() * 10)
+	return Math.floor(Math.random() * 5)
 }
 
 function calcPoints(result, bet) {
